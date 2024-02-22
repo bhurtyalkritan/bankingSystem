@@ -2,7 +2,7 @@
 
 ## Overview
 
-This comprehensive C++ project simulates a banking system, designed to emulate real-world financial operations within a console-based application. It allows for user interaction through a menu-driven interface, facilitating account management, financial transactions, interest accrual, and stock market investments.
+This C++ project simulates a banking system, designed to emulate real-world financial operations within a console-based application. It allows for user interaction through a menu-driven interface, facilitating account management, financial transactions, interest accrual, and stock market investments.
 
 ## Detailed Features
 
