@@ -71,4 +71,4 @@ Contributions to improve the functionality, add features, or enhance the securit
 
 ## License
 
-This project is released under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is released under the MIT License
